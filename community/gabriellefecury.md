@@ -1,5 +1,5 @@
 # Gabrielle Fecury
-Olá, estou cursando Análise e Desenvolvimento de Sistemas. Atualmente, tenho me deesenvolvido como desenvolvedora Front-End.
+Olá, estou cursando Análise e Desenvolvimento de Sistemas. Atualmente, tenho me desenvolvido como desenvolvedora Front-End.
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/gabriellefecury/)
